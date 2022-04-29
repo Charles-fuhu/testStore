@@ -3,7 +3,7 @@ import Logo from '@/logo.svg'
 export default function Header() {
   return (
     <header className='flex justify-between items-center h-20'>
-      <img src={Logo} alt='' className='w-8 h-8' />
+      <img src={Logo} alt='' className='w-30 h-20' />
       <nav className='flex items-center'>
         <a href='/'>登录</a>
         <a
