@@ -47,7 +47,7 @@ function Hero() {
           <video
             src={Video}
             controls
-            className="w-[768px] h-[432px] object-cover object-top rounded"
+            className="w-[768px] h-[432px] object-cover rounded"
           ></video>
           <div className="flex absolute rounded-full bg-white -bottom-7 px-5 py-4 drop-shadow-xl">
             <svg

@@ -15,8 +15,8 @@ export default function Solution() {
           <ul className='grid gap-3'>
             {[1, 2, 3].map(v => (
               <li
-                className={`p-5 justify-between rounded border border-zinc-100 ${
-                  v == 1 ? 'bg-zinc-200' : ''
+                className={`p-5 justify-between  mt-5 rounded-xl border border-zinc-100 ${
+                  v == 1 ? 'bg-zinc-100' : ''
                 }`}
                 key={v}>
                 <p className='text-lg font-bold'>构建简单的生态系统</p>
