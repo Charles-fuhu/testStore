@@ -29,10 +29,25 @@ export default function Hero() {
       </div>
       {/* ------------- */}
       <div className='relative grid justify-items-center'>
-          <video src={Video} controls className='w-[784px] h-[432px] object-cover  rounded'></video>
+        <video
+          src={Video}
+          controls
+          className='w-[784px] h-[432px] object-cover rounded'></video>
       </div>
       {/* ----------- */}
-      
+      <div className='flex absolute rounded-full bg-white -bottom-7 px-5 py-4 drop-shadow-xl'>
+        <svg
+          width='24'
+          height='24'
+          viewBox='0 0 24 24'
+          fill='none'
+          xmlns='http://www.w3.org/2000/svg'
+          className='mr-3'>
+          <circle cx='12' cy='12' r='11' stroke='#999999' stroke-width='2' />
+          <path d='M10 17L16 12L10 7V17Z' fill='#999999' />
+        </svg>
+        查看两分钟演示视频
+      </div>
     </div>
   )
 }
