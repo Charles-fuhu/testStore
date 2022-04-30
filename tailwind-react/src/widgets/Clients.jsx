@@ -87,7 +87,7 @@ export default function Clients() {
         </p>
         <p className='text-lg font-bold'>无名氏</p>
         <p className='text-gray-500 mb-8 mr-2'>
-          XX上市公司CEO &nbsp;  
+          XX上市公司CEO &nbsp;
           <a href='#' className='text-blue-500'>
             @Company
           </a>
