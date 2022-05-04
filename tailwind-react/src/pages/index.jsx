@@ -4,6 +4,7 @@ import Hero from '@/widgets/Hero'
 import Solution from '@/widgets/Solution'
 import HowWork from '@/widgets/HowWork'
 import Clients from '@/widgets/Clients'
+import Contact from '@/widgets/Contact'
 function Index() {
   return (
     <div className='container mx-auto p-4'>
@@ -22,6 +23,9 @@ function Index() {
       </section>
       <section className='md:w-3/5 mx-auto mt-60'>
         <Clients />
+      </section>
+      <section className='mt-20'>
+        <Contact></Contact>
       </section>
     </div>
   )
