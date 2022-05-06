@@ -9,7 +9,7 @@
     <nav class="flex items-center px-4 py-3 bg-gray-900 justify-between">
       <!-- 左边 -->
       <div class="text-white flex items-center space-x-4">
-        <a href="#">
+        <a href="#123">
           <a class="w-6 fill-current hover:text-gray-200" href="https://github.com/" data-hotkey="g d"
             aria-label="Homepage "
             data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/tailwindlabs/tailwindcss&quot;,&quot;user_id&quot;:39029427}}"
