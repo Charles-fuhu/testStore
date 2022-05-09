@@ -30,7 +30,6 @@
             <div class="  border border-gray-600 rounded text-xs text-gray-400 px-2 mr-2 "> /</div>
           </div>
         </div>
-
         <ul class="flex items-center font-semibold space-x-4 ">
           <li>
             <a href="" class="hover:text-gray-400">Pull requests</a>
