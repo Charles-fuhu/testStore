@@ -36,13 +36,13 @@
             <a href="" class="hover:text-gray-400">Pull requests</a>
           </li>
           <li>
-            <a href="" class="hover:text-gray-400">Issues</a>
+            <a href="" class="hover:text-gray-400">Issues.</a>
           </li>
           <li>
-            <a href="" class="hover:text-gray-400">Marketplace</a>
+            <a href="" class="hover:text-gray-400">Marketplace.</a>
           </li>
           <li>
-            <a href="" class="hover:text-gray-400">Explore</a>
+            <a href="" class="hover:text-gray-400">Explore.</a>
           </li>
         </ul>
       </div>
